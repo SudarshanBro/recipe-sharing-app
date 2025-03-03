@@ -5,6 +5,8 @@
 
 Web Kitchen is a modern recipe-sharing platform built with **React**, **Tailwind CSS**, and **React Router**. It allows users to explore featured recipes, sign up, log in, and share their culinary creations with the community.
 
+I have tried new things here, like rendering icons as a component from Lucid React, Using dynamic links of photos from unsplash rather than using photos itself. This might be the best try to make code more component based and lower in size.
+
 ## Features
 
 - **User Authentication**: Sign up, log in, and protect routes using a custom `ProtectedRoute` component.
