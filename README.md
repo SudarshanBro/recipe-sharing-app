@@ -29,8 +29,9 @@ I have tried new things here, like rendering icons as a component from Lucid Rea
 - **Other Tools**:
   - VS Code
   - Git & GitHub
+  - ![Screenshot 2025-02-15 115805](https://github.com/user-attachments/assets/f40dffb5-aa90-4bef-9bb7-32587310d3fa)
  ![Screenshot 2025-02-15 110114](https://github.com/user-attachments/assets/1a5b4e1e-0a8c-4f8c-9cf6-86d4d180537c)
-![Screenshot 2025-02-15 115805](https://github.com/user-attachments/assets/f40dffb5-aa90-4bef-9bb7-32587310d3fa)
-![Screenshot 2025-02-15 110702](https://github.com/user-attachments/assets/4e995ec6-0e1a-4303-941c-9dc76e9a34d1)
 ![Screenshot 2025-02-15 110137](https://github.com/user-attachments/assets/25ca34eb-31ca-4bf7-9ad7-699f0ca7255c)
+![Screenshot 2025-02-15 110702](https://github.com/user-attachments/assets/4e995ec6-0e1a-4303-941c-9dc76e9a34d1)
+
 
